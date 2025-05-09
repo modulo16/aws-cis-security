@@ -165,3 +165,7 @@ cython_debug/
 Old
 *.json
 ACCOUNTS_LIST.txt
+*./scans/*
+*.csv
+*.html
+*.png

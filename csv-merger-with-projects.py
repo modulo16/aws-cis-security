@@ -249,8 +249,8 @@ def merge_and_analyze_csv_files(input_path, output_dir, accounts_file, master_ac
 
 # Example usage
 if __name__ == "__main__":
-    input_directory = "/Users/mikewis/Library/CloudStorage/OneDrive-CDW/Client Docs/Clients/FCB/output"
-    output_directory = "/Users/mikewis/Library/CloudStorage/OneDrive-CDW/Client Docs/Clients/FCB/analysis_output"
+    input_directory = "./prowler_analysis/scans/scan_20250501"
+    output_directory = "./prowler_analysis/20250501_analysis_output"
     accounts_file = "./ACCOUNTS_LIST.txt"
     master_account_file = "./master-account.csv"
     
